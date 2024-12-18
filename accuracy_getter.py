@@ -82,7 +82,7 @@ def main():
     game = chess.pgn.read_game(pgn)
     board = game.board()
 
-    ss = Stockfish(path = "/opt/homebrew/bin/stockfish",depth = 24,parameters={"Threads" : 8,"Ponder" : True , "Hash" : 2048})
+    ss = Stockfish(path = "./stockfish",depth = 24,parameters={"Threads" : 8,"Ponder" : True , "Hash" : 2048})
     fen = board.fen()
     ss.set_fen_position(fen)
 
