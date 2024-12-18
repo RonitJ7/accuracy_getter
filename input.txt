@@ -1,0 +1,21 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.10.10"]
+[Round "?"]
+[White "MostlyKIguess"]
+[Black "DunkRonit"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "1428"]
+[BlackElo "1644"]
+[Termination "DunkRonit won by checkmate"]
+[ECO "C50"]
+[EndTime "7:19:17 GMT+0000"]
+[Link "https://www.chess.com/game/live/122282951405"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 d6 5. O-O Nf6 6. d3 h6 7. a3 O-O 8. h3 Be6
+9. Bxe6 fxe6 10. b4 Bb6 11. Na4 d5 12. Nxb6 axb6 13. Bb2 Qd6 14. exd5 exd5 15.
+Re1 Rfe8 16. b5 e4 17. Bxf6 Qxf6 18. dxe4 dxe4 19. Nd2 Nd4 20. Nxe4 Qd8 21. c4
+Qd7 22. Nc3 Rad8 23. Rxe8+ Qxe8 24. Qg4 Qe5 25. Nd5 Ne2+ 26. Kf1 Qxa1+ 27. Kxe2
+c6 28. Qe6+ Kh8 29. Nf4 Qd1+ 30. Ke3 Qd4+ 31. Kf3 Rf8 32. g3 Qd3+ 33. Kg4 Qd1+
+34. f3 Qd4 35. Kh5 Qc5+ 36. Kg4 Qg5# 0-1
